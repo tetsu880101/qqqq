@@ -10,7 +10,7 @@ int main()
 	b=5;
 	printf("a+b=%d",add(a,b));
 
-	printf("a-b=%d",m(a,));
+	printf("a-b=%d",m(a,b));
 
 	 system("pause");
 	 return 0;
