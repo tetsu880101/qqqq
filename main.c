@@ -9,6 +9,8 @@ int main()
 	  if(a%2==1)	       
 	  printf("%d/",a);     //輸出奇數
 	 }
+	 while(a<5)
+		 a++;
 	 system("pause");
 	 return 0;
 }
