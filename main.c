@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*輸出 1 到 100 之間的奇數*/
+/*123456789*/
 int add(int,int);
 int m(int,int);
 int waru(int,int);
